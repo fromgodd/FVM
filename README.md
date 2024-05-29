@@ -1,5 +1,5 @@
-# FVM (STILL DOING RESEARCH & WIP)
-Fromgodd's Virtual Machine (bytecode)
+# FVM
+Fromgodd's Virtual Machine (stack)
 
 <img src="https://github.com/fromgodd/FVM/assets/97128346/9b0d751b-fafc-4665-bf46-97829c5258bf_small.png" width="220" height="220">
 
